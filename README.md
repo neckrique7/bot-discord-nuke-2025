@@ -1,2 +1,90 @@
-# bot-discord-nuke-2025
-painel  nuke 2025 (base aberta pra uso)
+# 🧨 NUKE PAINEL — AIM EDITION
+By: neckk0
+
+🔧 Desenvolvido em python usando discord.py 2.x
+
+
+# 📌 Sobre o Projeto
+
+Este repositório contém um Painel Nuke, capaz de executar ações de alto impacto em servidores Discord.
+Criado com fins didáticos, demonstra como trabalhar com:
+
+Views persistentes
+
+Select menus interativos
+
+Manipulação massiva de canais
+
+Permissões, cargos e membros
+
+Rate limits, follow-ups e respostas seguras
+
+Estrutura avançada de bots
+
+
+
+### Funcionalidades do Painel
+
+
+🔥 Nuke ALL
+
+Renomeia o servidor, apaga todos os canais e inicia spam de criação e mensagens.
+
+🗑 Delete ALL
+
+Exclui todos os canais existentes
+
+♾ Spam Infinito de Canais
+
+Cria canais e envia mensagens continuamente até o bot ser desligado.
+
+👢 Kick ALL
+
+Expulsa todos os membros que não possuem cargo de administrador.
+
+🔇 Mute Global
+
+Define permissões para impedir qualquer membro de enviar mensagens ou falar.
+
+🎭 Role Flood
+
+Cria cargos automaticamente com nomes personalizados.
+
+
+# 📁 Estrutura do Projeto
+📦 NukePaInel-AIM
+ ├── main.py        # Código principal
+ ├── config.py      # TOKEN, PREFIX, etc.
+ ├── README.md      # Este arquivo
+
+⚙ Requisitos
+
+Python 3.10+
+
+Biblioteca discord.py 2.3+
+
+# Intents ativadas:
+
+Guilds
+
+Members
+
+Message Content
+
+Instale as dependências:
+
+pip install discord.py
+
+
+### Use o comando:
+
+.me
+
+
+O painel será exibido com todas as opções.
+
+# 🛡 Aviso Legal
+
+Este projeto é apenas para fins educacionais.
+O uso em servidores sem permissão pode violar os Termos de Serviço do Discord.
+O criador não se responsabiliza por qualquer uso indevido.
